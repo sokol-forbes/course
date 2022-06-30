@@ -1,0 +1,27 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "Fullstack development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokol-forbes/course.git"
+  },
+  "keywords": [
+    "Sass",
+    "Webpack",
+    "Node"
+  ],
+  "author": "Alexander Sokolovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokol-forbes/course/issues"
+  },
+  "homepage": "https://github.com/sokol-forbes/course#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
