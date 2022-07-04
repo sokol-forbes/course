@@ -1,0 +1,27 @@
+/*!*************************************************************************************************************!*\
+  !*** css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/scss.scss ***!
+  \*************************************************************************************************************/
+.container {
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+  border: 1px solid #ccc; }
+  .container h1 {
+    text-align: center;
+    color: darkblue; }
+  @media all and (min-width: 960px) {
+    .container {
+      font-size: 48px; } }
+  @media all and (max-width: 960px) {
+    .container {
+      font-size: 32px; } }
+  @media all and (max-width: 640px) {
+    .container {
+      font-size: 24px; } }
+  @media all and (max-width: 480px) {
+    .container {
+      font-size: 16px; } }
+  @media all and (max-width: 240px) {
+    .container {
+      font-size: 10px; } }
+
