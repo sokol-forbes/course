@@ -44,10 +44,7 @@ module.exports = {
                 test: /\.css$/,
                 use: cssLoaders()
             },
-            {
-                test: /\.less$/,
-                use: cssLoaders('less-loader')
-            },
+            
             {
                 test: /\.s[ac]ss$/,
                 use: cssLoaders('sass-loader')
