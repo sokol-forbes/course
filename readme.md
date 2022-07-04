@@ -1,1 +1,1 @@
-https://sokol-forbes.github.io/course/
+https://sokol-forbes.github.io/course/dist/index.html
