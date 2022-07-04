@@ -9,19 +9,19 @@
         text-align: center;
         color: darkblue;
     }
-    @media all and (min-width:960px) {
-        font-size: 48px;
+    @media (min-width:960px) {
+            font-size: 48px;
     }
-    @media all and (max-width:960px) {
-        font-size: 32px;
+    @media (max-width:960px) {
+            font-size: 32px;
     }
-    @media all and (max-width:640px) {
-        font-size: 24px;
+    @media (max-width:640px) {
+            font-size: 24px;
     }
-    @media all and (max-width:480px) {
-        font-size: 16px;
+    @media (max-width:480px) {
+            font-size: 16px;
     }
-    @media all and (max-width:240px) {
-        font-size: 10px;
+    @media (max-width:240px) {
+            font-size: 10px;
     }
 }
